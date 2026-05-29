@@ -1,0 +1,6 @@
+{
+  "name": "Baekstagram",
+  "description": "백사대학교 학생들과 캐릭터들의 인스타그램 세계관 플랫폼",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
